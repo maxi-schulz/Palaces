@@ -1,0 +1,45 @@
+ {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+  background-color: #f5f5dc;
+}
+
+h1 {
+    font-family: 'Brush Script MT', cursive;
+    color: darkblue;
+    margin: 20px;
+    text-align: center;
+}
+
+h2 {
+    font-family: Verdana, sans-serif;
+    color: darkgreen;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-family: Georgia, serif;
+    color: maroon;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    margin: 10px 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 15px auto;
+}
